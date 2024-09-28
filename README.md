@@ -11,8 +11,6 @@
 - [Task 3: Centimeters to Feet and Inches Converter](#task-3-centimeters-to-feet-and-inches-converter)
 - [Task 4: GUI Window with Specific Dimensions](#task-4-gui-window-with-specific-dimensions)
 - [Task 5: Circular Region Area Calculator](#task-5-circular-region-area-calculator)
-- [Setup Instructions](#setup-instructions)
-
 ---
 
 
