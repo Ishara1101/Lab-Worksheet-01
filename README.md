@@ -15,16 +15,5 @@
 
 ---
 
-## <span style="color: #FF6347;">Task 1: Find Middle Character</span>
 
-This program accepts an odd-length word from the user and prints the middle character. If the input word has an even number of characters, an error message is displayed.
-
-### Example:
-- **Input:** `magnificent`  
-- **Output:** `f`
-
-### Code:
-```java
-public class MiddleCharacter {
-    // Code here
 }
